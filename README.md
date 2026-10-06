@@ -51,9 +51,3 @@ Pastikan file HTML dan style-eksternal.css berada di dalam folder yang sama.
 Klik ganda pada file HTML tersebut.
 
 Halaman web akan terbuka dan ditampilkan melalui aplikasi Web Browser (seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge).
-
-🎓 Studi Kasus Spesifisitas CSS
-
-Proyek ini juga digunakan untuk menguji kasus spesifisitas: "Apabila pada satu elemen terdapat ID dan Class dengan properti CSS yang sama, manakah yang akan dieksekusi browser?"
-
-Jawabannya: CSS dari ID Selector akan dijalankan karena memiliki nilai spesifisitas (bobot 100) yang lebih tinggi dibandingkan Class Selector (bobot 10).
