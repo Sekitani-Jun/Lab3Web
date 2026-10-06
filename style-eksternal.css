@@ -1,0 +1,58 @@
+nav {
+  background: #20a759;
+  color: #fff;
+  padding: 10px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+nav .active {
+  background: #fff;
+  color: #5420a7;
+}
+nav a:hover {
+  background: #fff;
+  color: rgb(167, 32, 48);
+}
+
+/* CSS id Selector */
+#intro {
+  background-color: rgba(97, 179, 227, 0.24);
+  border: 1px solid #083a77;
+  min-height: 100px;
+  padding: 10px;
+}
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: rgba(43, 181, 121, 0.33);
+}
+
+/* CSS class selector */
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+.btn-primary {
+  background: #e42a42;
+}
+.id {
+  max-width: 800px;
+  margin: 0 auto;
+  color: #fff;
+}
+/* Class selector MERAH */
+.btn-primary {
+  background: #e42a42;
+}
+
+/* ID selector  HIJAU */
+#tombol-info {
+  background: #20a759;
+}
